@@ -3,6 +3,10 @@ public class Bunny {
         System.out.println("  (\\__//) ");
         System.out.println("  ( ._. )");
         System.out.println("  ( ) ( )");
-        System.out.println(" ('')_('')  ");
+        System.out.println(" (       ) ");
+        System.out.println(" ('')_('')* ");
     }
 }
+
+
+
